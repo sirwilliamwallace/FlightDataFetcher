@@ -37,6 +37,7 @@ python main.py
           
     - To search for flights:
         - python main.py search [keyword] [type]
+        
     - To list all flights:
         - python main.py list
 
