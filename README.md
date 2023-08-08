@@ -33,15 +33,10 @@ python main.py
 
 ## Usage
     - To update the database with new flights:
-        - ```bash
-           python main.py update
-          ```
+        - python main.py update
+          
     - To search for flights:
-        - ```bash
-           python main.py search [keyword] [type]
-          ```
+        - python main.py search [keyword] [type]
     - To list all flights:
-        - ```bash
-           python main.py list
-          ```
+        - python main.py list
 
