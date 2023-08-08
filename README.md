@@ -25,10 +25,10 @@ cd FlightDataFetcher
 
 2. Change the API key in `main.py` to your own.
 
-3. Run the program:
+3. Update the database with the latest flight data:
 
 ```bash
-python main.py
+    python main.py update
 ```
 
 ## Usage
