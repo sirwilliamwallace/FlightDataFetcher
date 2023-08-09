@@ -17,9 +17,9 @@ FlightDataFetcher is a Python command-line tool that simplifies the process of f
 1. Install the required packages:
 
 ```bash
-pip install requests tabulate
 git clone https://github.com/sirwilliamwallace/FlightDataFetcher.git
 cd FlightDataFetcher
+pip install -r requirements.txt
 ```
 1. Create a FlightAware account and obtain an API key.
 
